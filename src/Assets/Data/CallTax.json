@@ -1,0 +1,32 @@
+[
+  {
+    "DDD": "011",
+    "name": "São Paulo",
+    "fees": {
+      "016": 1.9,
+      "017": 1.7,
+      "018": 0.8
+    }
+  },
+  {
+    "DDD": "016",
+    "name": "Ribeirão Preto",
+    "fees": {
+      "011": 2.9
+    }
+  },
+  {
+    "DDD": "017",
+    "name": "São José do Rio Preto",
+    "fees": {
+      "011": 2.7
+    }
+  },
+  {
+    "DDD": "018",
+    "name": "Presidete Prudente",
+    "fees": {
+      "011": 1.9
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FaleMais 30",
+    "freeTime": 30,
+    "price": 100
+  },
+  {
+    "name": "FaleMais 60",
+    "freeTime": 60,
+    "price": 150
+  },
+  {
+    "name": "FaleMais 120",
+    "freeTime": 120,
+    "price": 200
+  }
+]
